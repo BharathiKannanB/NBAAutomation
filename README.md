@@ -7,12 +7,12 @@ Derived Product 1 (DP1): https://www.nba.com/sixers/ (Referred to as DP1)
 Derived Product 2 (DP2): https://www.nba.com/bulls/ (Referred to as DP2)
 
 ## Tech Used:
-Selenium WebDriver: For web automation.
-Core Java and Gherkin: For programming.
-Cucumber with TestNG: For behavior-driven development (BDD) and test execution.
-Maven: For project management and dependency handling.
-Log4j Logger Library: For logging test execution information.
-Allure Reporting Library: For generating comprehensive test reports.
+Selenium WebDriver: For web automation.                                                                             
+Core Java and Gherkin: For programming.                                                                                  
+Cucumber with TestNG: For behavior-driven development (BDD) and test execution.                                                          
+Maven: For project management and dependency handling.                                                                         
+Log4j Logger Library: For logging test execution information.                                                              
+Allure Reporting Library: For generating comprehensive test reports.                                                                    
 
 ## Pre-requisite:
 1. Install JDK 12 and set path
