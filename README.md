@@ -1,5 +1,5 @@
-# NBA Test Automation framework for Veeva assessment
-Welcome to the Test Automation Framework Assessment repository! This repository houses a robust Test Automation framework designed to automate test cases for three NBA products: Core Product (CP), Derived Product 1 (DP1), and Derived Product 2 (DP2).
+# NBA Test Automation framework for Veeva
+Welcome to the Test Automation Framework repository! This repository houses a robust Test Automation framework designed to automate test cases for three NBA products: Core Product (CP), Derived Product 1 (DP1), and Derived Product 2 (DP2).
 
 ## Products:
 Core Product (CP): https://www.nba.com/warriors (Referred to as CP)
