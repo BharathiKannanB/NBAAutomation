@@ -1,0 +1,7 @@
+NBA get product details:
+  Browser:
+    - Chrome
+    - Firefox
+  Stage:
+      category: Men's
+      productType: Hats

@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="TestNG Automation suite" data-provider-thread-count="5">
+    <parameter name="cucumber.filter.tags" value="@smoke" />
+    <test name="Cucumber Test">
+        <classes>
+            <class name="com.veeva.application.runner.SmokeRunner"/>
+        </classes>
+    </test>
+</suite>
