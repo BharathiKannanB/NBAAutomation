@@ -10,3 +10,7 @@ Test Automation framework for Veeva assessment
 
 ![](https://github.com/BharathiKannanB/NBAAutomation/blob/main/Folder%20structure.png)
 
+## Execution flow:
+
+![](https://github.com/BharathiKannanB/NBAAutomation/blob/main/Execution%20flow.png)
+
