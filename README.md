@@ -2,8 +2,8 @@
 Welcome to the Test Automation Framework repository! This repository houses a robust Test Automation framework designed to automate test cases for three NBA products: Core Product (CP), Derived Product 1 (DP1), and Derived Product 2 (DP2).
 
 ## Products:
-Core Product (CP): https://www.nba.com/warriors (Referred to as CP)
-Derived Product 1 (DP1): https://www.nba.com/sixers/ (Referred to as DP1)
+Core Product (CP): https://www.nba.com/warriors (Referred to as CP)                                                                        
+Derived Product 1 (DP1): https://www.nba.com/sixers/ (Referred to as DP1)                                                                        
 Derived Product 2 (DP2): https://www.nba.com/bulls/ (Referred to as DP2)
 
 ## Tech Used:
